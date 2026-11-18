@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi! I'm chillydusk 👋
+>A computer science student
+## I hope to explore new directions for computers in the *AI era*. Do you want to *join me*?
 
 <!--
 **chillydusk/chillydusk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

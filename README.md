@@ -1,7 +1,7 @@
 # Hi! I'm chillydusk 👋
 >A computer science student
 ## I hope to explore new directions for computers in the *AI era*. Do you want to *join me*?
-
+![I like Luo Xiaohei!](https://github.com/chillydusk/chillydusk/blob/main/assets/%E3%80%90%E5%93%B2%E9%A3%8E%E5%A3%81%E7%BA%B8%E3%80%91%E5%8A%A8%E6%BC%AB-%E5%B0%8F%E9%BB%91%E7%8C%AB-%E6%B2%BB%E6%84%88.png?raw=true)
 <!--
 **chillydusk/chillydusk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
